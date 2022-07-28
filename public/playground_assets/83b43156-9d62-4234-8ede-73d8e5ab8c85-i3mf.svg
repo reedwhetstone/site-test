@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg width='20' height='20' viewBox='0 0 20 20' fill='none' xmlns='http://www.w3.org/2000/svg'>
+<path d='M5 19H2C1.73478 19 1.48038 18.8946 1.29285 18.707C1.10531 18.5195 1 18.2652 1 18V15' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/>
+<path d='M5 15L7 13' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/>
+<path d='M1 5V2C1 1.73478 1.10531 1.48051 1.29285 1.29297C1.48038 1.10543 1.73478 1 2 1H5' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/>
+<path d='M5 5L7 7' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/>
+<path d='M15 1H18C18.2652 1 18.5196 1.10543 18.7072 1.29297C18.8947 1.48051 19 1.73478 19 2V5' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/>
+<path d='M15 5L13 7' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/>
+<path d='M19 15V18C19 18.2652 18.8947 18.5195 18.7072 18.707C18.5196 18.8946 18.2652 19 18 19H15' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/>
+<path d='M15 15L13 13' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/>
+</svg>
